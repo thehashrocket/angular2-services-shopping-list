@@ -1,8 +1,8 @@
 import {Component, EventEmitter} from '@angular/core';
-import {ListItem} from '../list-item'
+import {ListItem} from "../list-item";
 
 @Component({
-    selector: 'shopping-list-new-item',
+    selector: 'shopping-list-item',
     template: `
         <div class="input">
             <label for="item-name">Name</label>
@@ -12,15 +12,16 @@ import {ListItem} from '../list-item'
             <label for="item-amount">Amount</label>
             <input type="text" id="item-amount" [(ngModel)]="item.amount">
         </div>
-        <button (click)="onClick()">Add Item</button>
+        <button class="danger" (click)="onDelete()">Delete Item</button>
     `,
-    outputs: ['itemAdded']
+    inputs: ['item'],
+    outputs: ['removed']
 })
-export class ShoppingNewListItemComponent {
+export class ShoppingListItemComponent {
     item = {name: '', amount: 0};
-    itemAdded = new EventEmitter<ListItem>();
+    removed = new EventEmitter<ListItem>();
 
-    onClick() {
-        this.itemAdded.emit(this.item);
+    onDelete() {
+        this.removed.emit(this.item);
     }
 }

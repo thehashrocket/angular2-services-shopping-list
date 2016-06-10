@@ -22,76 +22,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/scss/app.scss">
+      <file leaf-file-name="shopping-list-item.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/shopping-list/shopping-list-item.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="360">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding>
-                <element signature="e#0#40#0" expanded="true" />
-                <marker date="1465595503000" expanded="true" signature="189:257" ph="..." />
-                <marker date="1465595503000" expanded="true" signature="284:343" ph="..." />
+                <element signature="e#0#54#0" expanded="true" />
+                <marker date="1465597594000" expanded="true" signature="186:320" ph="..." />
+                <marker date="1465597594000" expanded="true" signature="348:490" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shopping-list.component.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="shopping-list.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dev/shopping-list/shopping-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            <state relative-caret-position="600">
+              <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
-                <marker date="1465596240000" expanded="true" signature="199:314" ph="..." />
-                <marker date="1465596240000" expanded="true" signature="332:581" ph="..." />
-                <marker date="1465596240000" expanded="true" signature="392:558" ph="..." />
-                <marker date="1465596240000" expanded="true" signature="413:539" ph="..." />
-                <marker date="1465596240000" expanded="true" signature="599:641" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list-item.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/list-item.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shopping-list-new-item.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/shopping-list/shopping-list-new-item.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-              <folding>
-                <marker date="1465595751000" expanded="true" signature="151:194" ph="..." />
-                <marker date="1465595751000" expanded="true" signature="151:285" ph="..." />
-                <marker date="1465595751000" expanded="true" signature="313:455" ph="..." />
+                <marker date="1465597594000" expanded="true" signature="312:427" ph="..." />
+                <marker date="1465597594000" expanded="true" signature="445:723" ph="..." />
+                <marker date="1465597594000" expanded="true" signature="505:700" ph="..." />
+                <marker date="1465597594000" expanded="true" signature="526:681" ph="..." />
+                <marker date="1465597594000" expanded="true" signature="770:892" ph="..." />
               </folding>
             </state>
           </provider>
@@ -104,9 +60,11 @@
       <list>
         <option value="$PROJECT_DIR$/assets/scss/app.scss" />
         <option value="$PROJECT_DIR$/dev/app.component.ts" />
-        <option value="$PROJECT_DIR$/dev/shopping-list/shopping-list-new-item.component.ts" />
-        <option value="$PROJECT_DIR$/dev/shopping-list/shopping-list.component.ts" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/dev/list-item.ts" />
+        <option value="$PROJECT_DIR$/dev/shopping-list/shopping-list-new-item.component.ts" />
+        <option value="$PROJECT_DIR$/dev/shopping-list/shopping-list-item.component.ts" />
+        <option value="$PROJECT_DIR$/dev/shopping-list/shopping-list.component.ts" />
       </list>
     </option>
   </component>
@@ -198,6 +156,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping-list" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-shopping-list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-shopping-list" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -254,12 +230,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1465594610219</updated>
-      <workItem from="1465594611393" duration="1630000" />
+      <workItem from="1465594611393" duration="2913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1630000" />
+    <option name="totallyTimeSpent" value="2913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="476" y="-981" width="1406" height="797" extended-state="0" />
@@ -310,6 +286,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/list-item.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/shopping-list/shopping-list-new-item.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="14" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+            <marker date="1465596538000" expanded="true" signature="189:232" ph="..." />
+            <marker date="1465596538000" expanded="true" signature="189:323" ph="..." />
+            <marker date="1465596538000" expanded="true" signature="351:493" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dev/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -322,46 +327,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/shopping-list/shopping-list-new-item.component.ts">
+    <entry file="file://$PROJECT_DIR$/dev/shopping-list/shopping-list-item.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="360">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           <folding>
-            <marker date="1465595751000" expanded="true" signature="151:194" ph="..." />
-            <marker date="1465595751000" expanded="true" signature="151:285" ph="..." />
-            <marker date="1465595751000" expanded="true" signature="313:455" ph="..." />
+            <element signature="e#0#54#0" expanded="true" />
+            <marker date="1465597594000" expanded="true" signature="186:320" ph="..." />
+            <marker date="1465597594000" expanded="true" signature="348:490" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/shopping-list/shopping-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state relative-caret-position="600">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
-            <marker date="1465596240000" expanded="true" signature="199:314" ph="..." />
-            <marker date="1465596240000" expanded="true" signature="332:581" ph="..." />
-            <marker date="1465596240000" expanded="true" signature="392:558" ph="..." />
-            <marker date="1465596240000" expanded="true" signature="413:539" ph="..." />
-            <marker date="1465596240000" expanded="true" signature="599:641" ph="..." />
+            <marker date="1465597594000" expanded="true" signature="312:427" ph="..." />
+            <marker date="1465597594000" expanded="true" signature="445:723" ph="..." />
+            <marker date="1465597594000" expanded="true" signature="505:700" ph="..." />
+            <marker date="1465597594000" expanded="true" signature="526:681" ph="..." />
+            <marker date="1465597594000" expanded="true" signature="770:892" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/list-item.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
