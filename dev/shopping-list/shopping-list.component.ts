@@ -23,6 +23,8 @@ import {ShoppingNewListItemComponent} from "./shopping-list-new-item.component";
 })
 export class ShoppingListComponent {
     listItems = new Array<{name:string, amount:number}>();
+    selectedItem: {name: string, amount: number};
+    
 
     onItemAdded(item: {name:string, amount: number}) {
         this.listItems.push({ name: item.name, amount: item.amount });
